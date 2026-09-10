@@ -144,7 +144,7 @@ public class Canteen {
 
         System.out.println("\n===== ORDER SUMMARY =====");
         System.out.println("Total Quantity: " + totalItems);
-        System.out.printf("Total Amount Before Deductions2: Php %.2f%n", totalAmount);
+        System.out.printf("Total Amount Before Deductions: Php %.2f%n", totalAmount);
         System.out.printf("Total Deduction: Php %.2f%n",
                 totalDiscount);
         System.out.printf("Final Amount to Pay: Php %.2f%n",
